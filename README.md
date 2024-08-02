@@ -1,4 +1,4 @@
- # [streamit](https://stream-it-lake.vercel.app/)
+ # [booknpay](https://booknpay.vercel.app/)
 
 ## Table Of Content
 
@@ -45,13 +45,11 @@ npm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-
-
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Contributing
 
-We welcome contributions from the community to enhance DecisionHub. Feel free to submit bug reports, feature requests, or pull requests through the GitHub repository.
+We welcome contributions from the community to enhance booknpay. Feel free to submit bug reports, feature requests, or pull requests through the GitHub repository.
 
 ## License
 
@@ -60,10 +58,10 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contributors
 
-For any questions or inquiries, please reach out to the development team at [streamit](mailto:joshraphael424@gmail.com)
+For any questions or inquiries, please reach out to the development team at [booknpay](mailto:joshraphael424@gmail.com)
   
    - GitHub: [@github](https://github.com/RafasGit)
    - Twitter: [@twitter](https://x.com/rafa_codes22)
    - LinkedIn: [LinkedIn](https://www.linkedin.com/in/joshua-ng-ang-a-13158120a)
  
- Enjoy using streamit!# booknpay
+ Enjoy using booknpay!
