@@ -37,6 +37,13 @@ export const NavbarRoutes = () => {
 
             </Button>
           </Link>
+          <Link href={"/mybookings/"}>
+          <Button size="sm" variant="ghost">
+            <h2 className="hover:scale-105 hover:text-primary text-lg">My Bookings</h2>
+
+            </Button>
+          
+          </Link>
        
       </div>
      ) :
