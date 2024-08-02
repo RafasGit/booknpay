@@ -11,7 +11,7 @@
 
 
  ## Features
-![Image1](https://github.com/RafasGit/StreamIt/blob/main/public/streamithome.png)
+![Image1](https://github.com/RafasGit/booknpay/blob/main/public/bookpayhome.png)
 
  A Technical Service Appointment App: fully responsive Technical Services web application using Next.js, React.js, and Tailwind CSS.
 -  📅 Effortless Booking System: Implement an intuitive booking system with date and time slot selection, providing a seamless user experience and instant booking confirmation.
