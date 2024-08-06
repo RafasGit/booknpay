@@ -13,7 +13,7 @@
  ## Features
 ![Image1](https://github.com/RafasGit/booknpay/blob/main/public/bookpayhome.png)
 
- A Technical Service Appointment App: fully responsive Technical Services web application using Next.js, React.js, and Tailwind CSS.
+ A Technical Service Appointment App: fully responsive web application using Next.js, React.js, and Tailwind CSS.
 -  📅 Effortless Booking System: Implement an intuitive booking system with date and time slot selection, providing a seamless user experience and instant booking confirmation.
 - 🛰️ Advanced Features: Integrate popular tools like Shad CN UI for enhanced UI components, Hygraph for efficient data fetching with GraphQL. 
 - 🔄 Real-Time Data Management: Utilize real-time data management techniques to display dynamic content such as business listings, user bookings, and more, ensuring your app stays current and engaging.
