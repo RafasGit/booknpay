@@ -115,7 +115,7 @@ const businessBookedSlot = () => {
     <div>
       <Sheet>
         <SheetTrigger asChild>{children}</SheetTrigger>
-        <SheetContent className=" h-22 bg-neutral-950  overflow-hidden">
+        <SheetContent className=" h-22 bg-neutral-950  overflow-auto">
           <SheetHeader>
             <SheetTitle>Book a Service</SheetTitle>
             <SheetDescription>
