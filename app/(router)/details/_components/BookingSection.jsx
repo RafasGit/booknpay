@@ -115,18 +115,18 @@ const businessBookedSlot = () => {
     <div>
       <Sheet>
         <SheetTrigger asChild>{children}</SheetTrigger>
-        <SheetContent className=" h-22 mr-4 bg-neutral-950  overflow-hidden">
+        <SheetContent className=" h-22 bg-neutral-950  overflow-hidden">
           <SheetHeader>
             <SheetTitle>Book a Service</SheetTitle>
             <SheetDescription>
               Select Date and Time slot to book an service
-              <div className="flex flex-col gap-5 items-baseline">
+              <div className=" ml-[-12px] flex flex-col gap-5 items-baseline">
                 <h2 className="mt-5 font-bold">Select Date</h2>
                 <Calendar
                   mode="single"
                   selected={date}
                   onSelect={setDate}
-                  className="rounded-md border right-10"
+                  className="rounded-md border pl-2"
                 />
               </div>
               <h2 className="my-5 font-bold">Select Time Slot</h2>
