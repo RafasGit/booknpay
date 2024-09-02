@@ -115,7 +115,7 @@ const businessBookedSlot = () => {
     <div>
       <Sheet>
         <SheetTrigger asChild>{children}</SheetTrigger>
-        <SheetContent className=" bg-black  overflow-hidden">
+        <SheetContent className=" h-22 mr-4 bg-neutral-950  overflow-hidden">
           <SheetHeader>
             <SheetTitle>Book a Service</SheetTitle>
             <SheetDescription>
@@ -126,7 +126,7 @@ const businessBookedSlot = () => {
                   mode="single"
                   selected={date}
                   onSelect={setDate}
-                  className="rounded-md border"
+                  className="rounded-md border right-10"
                 />
               </div>
               <h2 className="my-5 font-bold">Select Time Slot</h2>
